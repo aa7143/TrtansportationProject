@@ -28,7 +28,7 @@ class Paths():
         return min_index
 
     
-    '''this functions uses the concept of the dijkstra's algorithm to evaluate the shortest path between the source and the given node
+    '''this functions uses the concept of the dijkstra's algorithm to evaluate the shortest distance between the source and the given node
         It utilizes the adjacency matrix representation
     '''
     def shortestPath(self, src):
